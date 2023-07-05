@@ -11,7 +11,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://juangarciatorrens.netlify.app](https://juangarciatorrens.netlify.app)
 
-- 💬 Ask me about **Mobile and web full stack development, C#, Java and other Object Oriented languages**
+- 💬 Ask me about **mobile and web full stack development, C#, Java and other Object Oriented languages**
 
 - 📫 How to reach me **superjuan.madrid2015@gmail.com**
 
