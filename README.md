@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **mobile and web full stack development, C#, Java and other OOP languages**
 
-- 📫 How to reach me **superjuan.madrid2015@gmail.com**
+- 📫 How to reach me **juan.torrens06@gmail.com**
 
 - 📄 More details on my LinkedIn [https://www.linkedin.com/in/juangarcia06](https://www.linkedin.com/in/juangarcia06)
 
