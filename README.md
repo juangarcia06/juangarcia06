@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Carit](https://carit.love)
 
-- 🌱 Currently learning **.NET**
+- 🌱 Currently learning **Electron**
 
 - 🤝 I am working on multiple full stack applications **They are private (that's why I don't have that many visible commits)**
 
