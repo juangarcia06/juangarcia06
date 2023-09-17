@@ -9,7 +9,9 @@
 
 - 🤝 I am working on multiple full stack applications **They are private (that's why I don't have that many visible commits)**
 
-- 👨‍💻 Most of my projects are available at [https://juangarciatorrens.netlify.app](https://juangarciatorrens.netlify.app)
+- 👨‍💻 Most of my projects are available at [https://devjuan.netlify.app](https://devjuan.netlify.app)
+
+- Old portfolio (First web project): [https://juangarciatorrens.netlify.app](https://juangarciatorrens.netlify.app)
 
 - 💬 Ask me about **mobile and web full stack development, C#, Java and other OOP languages**
 
